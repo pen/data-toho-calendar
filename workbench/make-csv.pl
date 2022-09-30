@@ -65,6 +65,10 @@ my $COL_SEP = ',';
 
     my @col_years = sort keys %col_year;
 
+    # 新しいデータを上・左に
+    @row_names = reverse @row_names;
+    @col_years = reverse @col_years;
+
     # 出力
     for my $name (@row_names) {
         my @cells = ($name, $R{$name}->{total_appear});
