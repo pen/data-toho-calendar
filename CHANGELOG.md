@@ -1,5 +1,10 @@
 # Changelog
 
+## 2023-09-28
+
+- [2024年](http://www.toho-a-park.com/goods/)
+
+
 ## 2023-09-23
 
 - 本家のPDFを保存
