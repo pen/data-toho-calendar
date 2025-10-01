@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-10-01
+
+- [2026年](https://www.toho-a-park.com/goods/)
+
 ## 2024-10-02
 
 - [2025年](https://tohotheaterstore.jp/items/802025001)
